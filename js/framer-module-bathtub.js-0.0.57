@@ -1,0 +1,8 @@
+/*
+ * Bathtub (phosphor-icons/Bathtub@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/bathtub.js"
+export { default } from "../js/bathtub.js"
