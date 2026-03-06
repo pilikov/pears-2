@@ -37,7 +37,7 @@ import{t as e}from"./rolldown-runtime.B2Vis9pa.mjs";import{M as t,l as n,s as r,
         U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
     }`,`@font-face {
       font-family: Inter;
-      src: url(https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2);
+      src: url(images/1zfs7n918ojhhd0nqwdj3jz4w.woff2);
       font-display: swap;
       font-style: normal;
       font-weight: 600;
